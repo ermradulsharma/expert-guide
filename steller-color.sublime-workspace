@@ -1,0 +1,638 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newcollege"
+			],
+			[
+				"user",
+				"user_type"
+			],
+			[
+				"prin",
+				"print_r()"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"di",
+				"die()"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"st",
+				"state_id"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"PRINT",
+				"print_r()"
+			],
+			[
+				"spec",
+				"specialisation_id"
+			],
+			[
+				"ci",
+				"city_id"
+			],
+			[
+				"sta",
+				"state_id"
+			],
+			[
+				"state_",
+				"state_id"
+			],
+			[
+				"cit",
+				"city"
+			],
+			[
+				"re",
+				"refresh"
+			],
+			[
+				"_se",
+				"$_SESSION"
+			],
+			[
+				"pri",
+				"print_r()"
+			],
+			[
+				"bl",
+				"blog"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"P",
+				"$_POST"
+			],
+			[
+				"ST",
+				"status"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"se",
+				"$_SESSION"
+			],
+			[
+				"po",
+				"$_POST"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"up",
+				"updateWizard"
+			],
+			[
+				"f",
+				"f_name"
+			],
+			[
+				"submi",
+				"submit"
+			],
+			[
+				"ed",
+				"editor1"
+			],
+			[
+				"n",
+				"Name"
+			],
+			[
+				"ech",
+				"echo()"
+			],
+			[
+				"Prin",
+				"print_r()"
+			],
+			[
+				"sel",
+				"seller"
+			],
+			[
+				"ta",
+				"tab"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"stT",
+				"state"
+			],
+			[
+				"stae",
+				"state"
+			],
+			[
+				"co",
+				"corporateplacements"
+			],
+			[
+				"foo",
+				"footer1"
+			],
+			[
+				"fo",
+				"foreach"
+			],
+			[
+				"c",
+				"course"
+			],
+			[
+				"f_",
+				"f_name"
+			],
+			[
+				"adre",
+				"address"
+			],
+			[
+				"per",
+				"personalModal"
+			],
+			[
+				"spe",
+				"specialisation_id"
+			],
+			[
+				"adnl",
+				"adnl_year"
+			],
+			[
+				"adnl_",
+				"adnl_certificate"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"conta",
+				"contact_one"
+			],
+			[
+				"contact",
+				"contact_two"
+			],
+			[
+				"email",
+				"email_two"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"em",
+				"empty()"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"twi",
+				"twitter"
+			],
+			[
+				"insta",
+				"instagram"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"if",
+				"ifelse"
+			],
+			[
+				"use",
+				"user_type"
+			],
+			[
+				"user_",
+				"user_type"
+			],
+			[
+				"_SE",
+				"$_SESSION"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"ABOU",
+				"about"
+			],
+			[
+				"s",
+				"$_SESSION"
+			],
+			[
+				"icon-",
+				"icon-menu"
+			],
+			[
+				"Stude",
+				"Student_model"
+			],
+			[
+				"coll",
+				"college_model"
+			],
+			[
+				"colege",
+				"college"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"prnt",
+				"print_r()"
+			],
+			[
+				"Co",
+				"College"
+			],
+			[
+				"User",
+				"user_type"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"SE",
+				"$_SESSION"
+			],
+			[
+				"ad",
+				"adcode"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"dte",
+				"date"
+			],
+			[
+				"_po",
+				"_POST"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"_s",
+				"$_SESSION"
+			],
+			[
+				"hi",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/header.php",
+		"/D/steller-color/application/config/database.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/controllers/Admin.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/models/Admin_model.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/newcollege.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/addnewcollege.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/dashboard.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/addcollege.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/controllers/Student.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/addblogs.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/userlist-updated.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/collegelist-updated.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/collegelist-updated.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/addcollege.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/adduser.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/adduser.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/news.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/blogs.php",
+		"/C/Users/my/Desktop/themeforest-5SNVQGoA-skote-html-laravel-admin-dashboard-template/Skote_v3.3.1/HTML/Admin/dist/tables-editable.html",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/dashboard.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/addnews.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/controllers/College.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/models/College_model.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/news.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/header1.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/footer1.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/aboutcollege.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/corporateplacements.php",
+		"/C/Users/my/Downloads/news.sql",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/addnews.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/collegelist.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/specialization.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/change_password.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/footer1.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/newslist.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/dashboard.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/models/Student_model.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/wizard.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/profile.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/wizard1.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/Administrator.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/contact.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/edit-testimonial.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/edit-services.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/add-services.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/list_services.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/add-user.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/add-services.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/home.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/about.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/controllers/Administrator.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/footer.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/header-script.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/header.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/add-testimonial.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/pages/home.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/pages/about.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/add-about.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/dashboard.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/home.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/Pages.php",
+		"/C/Users/my/AppData/Local/Temp/fz3temp-2/abouts.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/abouts.php",
+		"/D/New xampp/xampp/htdocs/newwebsol/application/views/administrator/add-testimonial.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/controllers/Buyer.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/buyer/profile.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/buyer/footer1.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/buyer/dashboard.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/models/Buyer_model.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/buyer/header1.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/profile.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/controllers/Admin.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/models/Admin_model.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/buyer/change_password.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/seller/header1.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/controllers/Seller.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/buyer/header.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/student/adduser.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/student/dashboard.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/student/profile.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/student/header.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/student/header1.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/controllers/Frontend.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/seller/change_password.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/seller/singup.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/seller/dashboard.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/seller/footer1.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/student/header.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/config/database.php",
+		"/D/New xampp/xampp/htdocs/artgallery/database/artgallery.sql",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/seller/header.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/models/Seller_model.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/views/admin/dashboard.php",
+		"/C/Users/my/Downloads/artgallery.sql.sql",
+		"/C/Users/my/Downloads/bschool.sql",
+		"/D/New xampp/xampp/htdocs/artgallery/application/controllers/Student.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/models/College_model.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/models/Student_model.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/models/Login_model.php",
+		"/D/New xampp/xampp/htdocs/artgallery/application/controllers/College.php",
+		"/D/New xampp/xampp/htdocs/newbschool/assets/frontend/new/libs/jquery-steps/build/multi-form.js",
+		"/D/New xampp/xampp/htdocs/newbschool/assets/frontend/new/libs/jquery-steps/build/multi-form.css",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/student/header1.php",
+		"/D/New xampp/xampp/htdocs/jquery-multi-step-form-wizard-master/jquery-multi-step-form-wizard-master/jquery-multi-step-form-with-validation/jquery-multi-step-form-with-validation/index.html",
+		"/D/New xampp/xampp/htdocs/multistep/index.html",
+		"/D/New xampp/xampp/htdocs/multistep/multi-form.js",
+		"/D/New xampp/xampp/htdocs/multistep/multi-form.css",
+		"/D/New xampp/xampp/htdocs/newbschool/assets/frontend/new/libs/jquery-steps/build/jquery.steps.min.js",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/student/forget_password.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/controllers/Admin.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/adduser.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/backup.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/brand.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/category.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/collegelist-updated.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/collegelist.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/color.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/dashboard.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/footer.php",
+		"/D/New xampp/xampp/htdocs/bschool/application/views/admin/forgot_password.php",
+		"/D/New xampp/xampp/htdocs/newbschool/system/libraries/Form_validation.php",
+		"/C/Users/my/Desktop/themeforest-5SNVQGoA-skote-html-laravel-admin-dashboard-template/Skote_v3.3.1/HTML/Staterkit/dist/layouts-horizontal.html",
+		"/C/Users/my/Desktop/themeforest-5SNVQGoA-skote-html-laravel-admin-dashboard-template/Skote_v3.3.1/HTML/Admin/dist/dashboard-blog.html",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/backend/state.php",
+		"/D/New xampp/xampp/htdocs/newbschool/application/views/college/lifestyle.php",
+		"/C/Users/my/Desktop/themeforest-5SNVQGoA-skote-html-laravel-admin-dashboard-template/Skote_v3.3.1/HTML/Admin/dist/form-layouts.html",
+		"/C/Users/my/Desktop/themeforest-5SNVQGoA-skote-html-laravel-admin-dashboard-template/Skote_v3.3.1/HTML/Admin/dist/form-validation.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "steller-color.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

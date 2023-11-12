@@ -1,0 +1,12 @@
+[10-May-2017 16:02:55 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 79
+[10-May-2017 16:16:25 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 79
+[10-May-2017 17:08:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/hikariaj/public_html/travel/application/controllers/Root_Admin.php on line 25
+[10-May-2017 17:10:35 UTC] PHP Fatal error:  Class '_Controller' not found in /home/hikariaj/public_html/travel/application/controllers/Root_Admin.php on line 4
+[10-May-2017 17:44:46 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 78
+[10-May-2017 17:45:17 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 78
+[12-Jul-2022 10:26:21 UTC] PHP Fatal error:  Cannot declare class Frontend, because the name is already in use in /home/mahakaalmatka/public_html/application/models/Admin_model.php on line 4
+[12-Jul-2022 10:27:00 UTC] PHP Fatal error:  Cannot declare class Frontend, because the name is already in use in /home/mahakaalmatka/public_html/application/models/Admin_model.php on line 4
+[27-Jul-2022 05:56:12 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/mahakaalmatka/public_html/application/controllers/Admin.php on line 3941
+[27-Jul-2022 05:56:15 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/mahakaalmatka/public_html/application/controllers/Admin.php on line 3941
+[29-Jul-2022 12:06:05 UTC] PHP Fatal error:  Cannot redeclare Admin::getsingle() in /home/mahakaalmatka/public_html/application/controllers/Admin.php on line 3950
+[28-Dec-2022 15:18:12 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/mahakaalmatka/public_html/application/controllers/Admin.php on line 89
