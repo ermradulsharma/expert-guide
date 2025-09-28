@@ -1,0 +1,31 @@
+# Composer vendor directory
+vendor/
+
+# CodeIgniter cache and logs
+/application/cache/
+/application/logs/
+
+# Environment file
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# PHPStorm
+/.phpstorm.meta.php
+
+# Node modules (if using npm/yarn)
+node_modules/
+
+# Build artifacts (if any)
+dist/
+build/
